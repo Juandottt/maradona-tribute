@@ -1,16 +1,37 @@
-# React + Vite
+# Diego Maradona — Tributo Eterno
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive React SPA tribute to Diego Armando Maradona — *El más grande. El Dios del fútbol. El 10 eterno.*
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React 18** + **Vite**
+- **TailwindCSS v3** — custom dark/cinematic theme with gold accents
+- **Framer Motion** — scroll-based cinematic animations
+- **React Router v6**
 
-## React Compiler
+## Sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| # | Section | Period |
+|---|---------|--------|
+| 1 | **Hero** | Full-screen intro |
+| 2 | **Infancia** | Villa Fiorito, Buenos Aires · 1960–1981 |
+| 3 | **Barcelona** | F.C. Barcelona · 1982–1984 |
+| 4 | **Nápoli** | S.S.C. Napoli · 1984–1991 |
+| 5 | **Mundial 86** | Mexico · June 1986 |
+| 6 | **Despedida** | November 25, 2020 |
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+*D10S · 1960 — 2020 · Eternamente en el corazón del pueblo*
+
