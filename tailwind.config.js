@@ -15,6 +15,7 @@ export default {
       },
       fontFamily: {
         serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+        mono: ['"Space Mono"', 'monospace'],
       },
     },
   },

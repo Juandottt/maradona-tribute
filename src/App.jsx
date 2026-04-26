@@ -11,7 +11,7 @@ function App() {
     <div className="bg-dark-bg text-white min-h-screen">
       <Navbar />
       <main>
-        <Hero />
+        <Hero showNav={false} />
         <div className="section-divider" />
         <Infancia />
         <div className="section-divider" />
